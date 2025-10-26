@@ -59,7 +59,7 @@ const RatingScreen: React.FC<RatingScreenProps> = ({ onRate }) => {
 
   return (
     <>
-      <img src="https://i.ibb.co/pwnGvM0/fatboy-logo.png" alt="Fatboy Restaurant Logo" className="w-64 mx-auto mb-6"/>
+      <h1 className="text-4xl font-bold text-gray-800 mb-4">Fatboy Restaurant</h1>
       <p className="text-gray-600 mt-2 mb-6">Gracias por calificarnos</p>
       <div className="flex justify-center space-x-2 text-yellow-400 mb-6">
         {[...Array(5)].map((_, index) => {
