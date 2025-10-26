@@ -1,0 +1,5 @@
+{
+  "name": "Fatboy Restaurant Review Collector",
+  "description": "A web application for Fatboy Restaurant to collect customer feedback. It directs positive reviews to Google and captures negative feedback privately.",
+  "requestFramePermissions": []
+}
